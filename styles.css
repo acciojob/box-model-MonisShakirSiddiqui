@@ -1,13 +1,10 @@
 /*  your css code here. If applicable */
-*{
-    margin: 0;
-    padding: 0;
-}
+
 #container{
 	width: 300px; /* You can adjust the width as needed */
     margin: 30px;
     padding: 30px;
-    border: 10px solid #333;
+    border: 5px solid #333;
     border-radius: 50px;
     text-align: center;
 	display:flex;
